@@ -1,2 +1,2 @@
 # Chatbot
-Tried making a chatbot
+Developed a chatbot in python utilizing TensorFlow
